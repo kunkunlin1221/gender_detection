@@ -174,9 +174,9 @@ cython_debug/
 .abstra/
 
 # Visual Studio Code
-#  Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
+#  Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore
 #  that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
-#  and can be added to the global gitignore or merged into this file. However, if you prefer, 
+#  and can be added to the global gitignore or merged into this file. However, if you prefer,
 #  you could uncomment the following to ignore the enitre vscode folder
 # .vscode/
 
@@ -192,3 +192,18 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+lightning_logs/version_10/metrics.csv
+lightning_logs/version_10/checkpoints/epoch=3-val_f1_score=0.98-val_acc=0.00.ckpt
+lightning_logs/version_11/metrics.csv
+lightning_logs/version_11/checkpoints/epoch=14-val_f1_score=1.00-val_accuracy=1.00.ckpt
+lightning_logs/version_11/checkpoints/epoch=14-val_f1_score=1.00-val_accuracy=1.00.onnx
+lightning_logs/version_4/metrics.csv
+lightning_logs/version_4/checkpoints/epoch=9-step=410.ckpt
+lightning_logs/version_5/metrics.csv
+lightning_logs/version_5/checkpoints/epoch=5-step=246.ckpt
+lightning_logs/version_6/metrics.csv
+lightning_logs/version_6/checkpoints/epoch=9-step=410.ckpt
+lightning_logs/version_8/metrics.csv
+lightning_logs/version_8/checkpoints/epoch=19-step=1640.ckpt
+lightning_logs/version_9/metrics.csv
+lightning_logs/version_9/checkpoints/best_model.ckpt

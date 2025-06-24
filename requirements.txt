@@ -1,0 +1,6 @@
+capybara-docsaid
+chameleon-docsaid
+fire
+ipython
+lightning
+albumentations
